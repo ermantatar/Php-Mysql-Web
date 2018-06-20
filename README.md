@@ -1,2 +1,2 @@
 # Php-Mysql-Web
-This is simple web project to demonstrate relation of PHP and MYSQL Database for backend. 
+Simple project to work on MySQL with PHP functions. The main goal is to connect front end with php functions to database. 
